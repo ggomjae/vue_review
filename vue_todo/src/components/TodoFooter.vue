@@ -6,6 +6,9 @@
 
 <script>
 import { mapMutations } from 'vuex'
+
+console.log("FOOT");
+
 export default {
   methods: {
     ...mapMutations({

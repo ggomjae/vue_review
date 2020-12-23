@@ -20,6 +20,9 @@
 
 <script>
 import Modal from './common/Modal.vue'
+
+console.log("Input");
+
 export default {
   data() {
     return {

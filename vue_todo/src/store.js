@@ -17,6 +17,8 @@ const storage = {
 	}
 }
 
+console.log("STORE");
+
 export const store = new Vuex.Store({
 	state: {
 		todoItems: storage.fetch()

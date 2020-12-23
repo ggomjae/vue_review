@@ -4,6 +4,14 @@
   </header>
 </template>
 
+<script>
+
+console.log("Header");
+export default {
+  
+}
+</script>
+
 <style scoped>
 h1 {
   color: #2F3B52;

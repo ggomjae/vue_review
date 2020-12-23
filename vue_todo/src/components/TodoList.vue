@@ -14,6 +14,8 @@
 
 <script>
 import { mapGetters, mapMutations } from 'vuex'
+
+console.log("List");
 export default {
   methods: {
     ...mapMutations({
